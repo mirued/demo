@@ -1,0 +1,15 @@
+{
+  "name": "java",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mirued <mirued@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-beta.2"
+  }
+}
